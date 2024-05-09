@@ -3,4 +3,4 @@ Para ver la demo, accede [aquí](https://ponvscript.github.io/responsive-web-sta
 
 ## Tecnologías utilizadas
 - HTML
-- CSS
+- SCSS
